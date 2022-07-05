@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bill-lcf
-The files found here are for the excerises for "Learn Computer Forensics." 
+
+The files found here are for the excerises for in the book "Learn Computer Forensics." 
 The solution files will only be provied to verified educators. 
 If you would like access to the solution files, send an email from your faculty (edu) email account to academicrequest@learncomputerforensics.com. 
 If you are not a member of an academic organization, send an email from your work email and we can discuss a verfication method.
